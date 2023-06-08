@@ -1,0 +1,45 @@
+.main-container {
+  width: 100%;
+  height: fit-content;
+  padding: 0px 40px;
+  transform: translateZ(0)
+}
+
+.message-details {
+  max-width: 75%;
+  width: fit-content;
+  justify-content: right;
+  margin-top: 0;
+}
+
+.sender, .time-stamp {
+  padding: 0.5rem 0.75rem;
+  color: #605D64;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  text-align: right;
+}
+
+.message-text {
+  position: relative;
+  display: block;
+  word-wrap: break-word;
+
+  width: fit-content;
+  max-width: 100%;
+  border-radius: 0.75rem;
+  border-style: solid;
+  border-width: 1px;
+  padding: 0.75rem;
+
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.25rem;
+  font-style: normal;
+  color: black;
+  text-align: left;
+}
+
+

@@ -1,0 +1,42 @@
+.ward-header,
+.bed-header {
+  font-family: 'Roboto', sans-serif;
+  height: 3rem;
+  padding: 0.375rem 0.25rem;
+  font-weight: 400;
+  font-size: 1.75rem;
+  line-height: 2.25rem;
+  color: #004B64;
+}
+
+.ward-header {
+  background-color: #CCDFE5;
+}
+
+.bed-header {
+  background-color: #FFECB3;
+}
+
+.tall-container {
+  height: 139px !important
+}
+
+.ward-details,
+.bed-details {
+  height: 100%;
+  font-size: 0.875rem;
+  padding: 0.5rem 1.5rem;
+}
+
+.ward-details {
+  background-color: #99BFCB;
+}
+
+.bed-details {
+  background-color: #FFE080;
+}
+
+.name {
+  font-weight: 700;
+  font-size: 1rem;
+}

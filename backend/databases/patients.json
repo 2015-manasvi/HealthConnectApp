@@ -1,0 +1,1485 @@
+[
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a1a"
+    },
+    "patient_id": "patient000",
+    "firstName": "Patient",
+    "lastName": "Patient",
+    "patient_gender": "Male",
+    "patient_nric": "s0000001x",
+    "patient_phoneNumber": 11111111,
+    "patient_dateOfBirth": {
+      "$date": "2000-12-31T16:00:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2022-12-31T16:00:00.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "Cantonese",
+    "patient_attention": "test patient",
+    "patient_doctorRemark": "test patient",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/1.jpg",
+    "patient_ward": 1,
+    "patient_bed": 1
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a1b"
+    },
+    "patient_id": "patient001",
+    "firstName": "Arjun",
+    "lastName": "Balakrishnan",
+    "patient_gender": "Male",
+    "patient_nric": "t1778359x",
+    "patient_phoneNumber": 16967071,
+    "patient_dateOfBirth": {
+      "$date": "1979-03-08T16:30:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-03-01T06:56:30.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "English",
+    "patient_attention": "Bad eyesight",
+    "patient_doctorRemark": "Making good progress",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/2.jpg",
+    "patient_ward": 1,
+    "patient_bed": 2
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a1c"
+    },
+    "patient_id": "patient002",
+    "firstName": "Kavita",
+    "lastName": "Ganesan",
+    "patient_gender": "Female",
+    "patient_nric": "g8669131a",
+    "patient_phoneNumber": 88582998,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-310548600000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-04-17T09:56:04.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "English",
+    "patient_doctorRemark": "Making excellent progress",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/3.jpg",
+    "patient_ward": 1,
+    "patient_bed": 3
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a1d"
+    },
+    "patient_id": "patient003",
+    "firstName": "Ravi",
+    "lastName": "Govindasamy",
+    "patient_gender": "Male",
+    "patient_nric": "f4837086r",
+    "patient_phoneNumber": 24143628,
+    "patient_dateOfBirth": {
+      "$date": "2009-12-09T16:00:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-04-02T11:19:09.000Z"
+    },
+    "patient_diet": "Short-Term Liquid Diet",
+    "patient_language": "English",
+    "patient_attention": "Blind",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/4.jpg",
+    "patient_ward": 1,
+    "patient_bed": 4
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a1e"
+    },
+    "patient_id": "patient004",
+    "firstName": "Lakshmi",
+    "lastName": "Krishnan",
+    "patient_gender": "Female",
+    "patient_nric": "t8528602x",
+    "patient_phoneNumber": 36782573,
+    "patient_dateOfBirth": {
+      "$date": "2005-08-26T16:00:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-02-14T11:44:53.000Z"
+    },
+    "patient_diet": "Soft Transitional Diet",
+    "patient_language": "English",
+    "patient_doctorRemark": "Swollen leg",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/5.jpg",
+    "patient_ward": 1,
+    "patient_bed": 5
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a1f"
+    },
+    "patient_id": "patient005",
+    "firstName": "Shalini",
+    "lastName": "Mani",
+    "patient_gender": "Female",
+    "patient_nric": "g5962825l",
+    "patient_phoneNumber": 97825523,
+    "patient_dateOfBirth": {
+      "$date": "1986-08-14T16:00:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-02-17T16:13:51.000Z"
+    },
+    "patient_diet": "Special Diet",
+    "patient_language": "English",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/6.jpg",
+    "patient_ward": 1,
+    "patient_bed": 6
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a20"
+    },
+    "patient_id": "patient006",
+    "firstName": "Suresh",
+    "lastName": "Murugan",
+    "patient_gender": "Male",
+    "patient_nric": "s2678071k",
+    "patient_phoneNumber": 87432768,
+    "patient_dateOfBirth": {
+      "$date": "1972-08-03T16:30:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-01-31T16:08:28.000Z"
+    },
+    "patient_diet": "Therapeutic Hospital Diet",
+    "patient_language": "Mandarin",
+    "patient_attention": "signs of dementia",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/7.jpg",
+    "patient_ward": 2,
+    "patient_bed": 1
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a21"
+    },
+    "patient_id": "patient007",
+    "firstName": "Priya",
+    "lastName": "Raj",
+    "patient_gender": "Female",
+    "patient_nric": "m9867718r",
+    "patient_phoneNumber": 60112835,
+    "patient_dateOfBirth": {
+      "$date": "1980-01-15T16:30:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-04-22T04:27:44.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "Cantonese",
+    "patient_doctorRemark": "Swollen arm needs attention",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/8.jpg",
+    "patient_ward": 2,
+    "patient_bed": 2
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a22"
+    },
+    "patient_id": "patient008",
+    "firstName": "Vishal",
+    "lastName": "Raman",
+    "patient_gender": "Male",
+    "patient_nric": "g3567318a",
+    "patient_phoneNumber": 79947287,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-369127800000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-02-20T21:37:01.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "Hokien",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/9.jpg",
+    "patient_ward": 2,
+    "patient_bed": 3
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a23"
+    },
+    "patient_id": "patient009",
+    "firstName": "Meera",
+    "lastName": "Subramaniam",
+    "patient_gender": "Female",
+    "patient_nric": "s7645232a",
+    "patient_phoneNumber": 33475105,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-302254200000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-02-02T11:54:34.000Z"
+    },
+    "patient_diet": "Short-Term Liquid Diet",
+    "patient_language": "Tamil",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/10.jpg",
+    "patient_ward": 2,
+    "patient_bed": 4
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a24"
+    },
+    "patient_id": "patient010",
+    "firstName": "Rajesh",
+    "lastName": "Arumugam",
+    "patient_gender": "Male",
+    "patient_nric": "f1135625i",
+    "patient_phoneNumber": 12450947,
+    "patient_dateOfBirth": {
+      "$date": "2006-04-18T16:00:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-03-30T17:56:44.000Z"
+    },
+    "patient_diet": "Soft Transitional Diet",
+    "patient_language": "Tamil",
+    "patient_doctorRemark": "Swollen eye needs attention",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/11.jpg",
+    "patient_ward": 2,
+    "patient_bed": 5
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a25"
+    },
+    "patient_id": "patient011",
+    "firstName": "Nurul",
+    "lastName": "Abdullah",
+    "patient_gender": "Female",
+    "patient_nric": "f8076977z",
+    "patient_phoneNumber": 40667269,
+    "patient_dateOfBirth": {
+      "$date": "1998-08-22T16:00:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-03-31T08:58:13.000Z"
+    },
+    "patient_diet": "Special Diet",
+    "patient_language": "Tamil",
+    "patient_attention": "Bad eyesight",
+    "patient_doctorRemark": "Making good progress",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/12.jpg",
+    "patient_ward": 2,
+    "patient_bed": 6
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a26"
+    },
+    "patient_id": "patient012",
+    "firstName": "Muhammad",
+    "lastName": "Ahmad",
+    "patient_gender": "Male",
+    "patient_nric": "g4798901f",
+    "patient_phoneNumber": 96217295,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-522487800000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-05-03T17:37:31.000Z"
+    },
+    "patient_diet": "Therapeutic Hospital Diet",
+    "patient_language": "English",
+    "patient_doctorRemark": "Making excellent progress",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/13.jpg",
+    "patient_ward": 2,
+    "patient_bed": 7
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a27"
+    },
+    "patient_id": "patient013",
+    "firstName": "Farah",
+    "lastName": "Ali",
+    "patient_gender": "Female",
+    "patient_nric": "s8008473x",
+    "patient_phoneNumber": 26457205,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-1103095200000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-04-19T10:26:44.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "English",
+    "patient_attention": "Blind",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/14.jpg",
+    "patient_ward": 2,
+    "patient_bed": 8
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a28"
+    },
+    "patient_id": "patient014",
+    "firstName": "Hafizah",
+    "lastName": "Hassan",
+    "patient_gender": "Female",
+    "patient_nric": "t6829911t",
+    "patient_phoneNumber": 41909876,
+    "patient_dateOfBirth": {
+      "$date": "1977-12-02T16:30:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-03-31T15:25:10.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "English",
+    "patient_doctorRemark": "Swollen leg",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/15.jpg",
+    "patient_ward": 3,
+    "patient_bed": 1
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a29"
+    },
+    "patient_id": "patient015",
+    "firstName": "Aisyah",
+    "lastName": "Hussein",
+    "patient_gender": "Female",
+    "patient_nric": "g6242751s",
+    "patient_phoneNumber": 60574891,
+    "patient_dateOfBirth": {
+      "$date": "2007-10-21T16:00:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-05-02T19:52:14.000Z"
+    },
+    "patient_diet": "Short-Term Liquid Diet",
+    "patient_language": "English",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/16.jpg",
+    "patient_ward": 3,
+    "patient_bed": 2
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a2a"
+    },
+    "patient_id": "patient016",
+    "firstName": "Syafiq",
+    "lastName": "Mohamed",
+    "patient_gender": "Male",
+    "patient_nric": "g6635584j",
+    "patient_phoneNumber": 86980182,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-429003000000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-04-01T16:55:21.000Z"
+    },
+    "patient_diet": "Soft Transitional Diet",
+    "patient_language": "English",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/17.jpg",
+    "patient_ward": 3,
+    "patient_bed": 3
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a2b"
+    },
+    "patient_id": "patient017",
+    "firstName": "Nabilah",
+    "lastName": "Othman",
+    "patient_gender": "Female",
+    "patient_nric": "t1577547k",
+    "patient_phoneNumber": 59001103,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-133860600000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-04-12T05:35:30.000Z"
+    },
+    "patient_diet": "Special Diet",
+    "patient_language": "Mandarin",
+    "patient_doctorRemark": "Swollen arm needs attention",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/18.jpg",
+    "patient_ward": 3,
+    "patient_bed": 4
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a2c"
+    },
+    "patient_id": "patient018",
+    "firstName": "Siti",
+    "lastName": "Rahim",
+    "patient_gender": "Female",
+    "patient_nric": "t3132589i",
+    "patient_phoneNumber": 62065822,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-1025680800000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-01-25T02:29:41.000Z"
+    },
+    "patient_diet": "Therapeutic Hospital Diet",
+    "patient_language": "Cantonese",
+    "patient_attention": "signs of dementia",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/19.jpg",
+    "patient_ward": 3,
+    "patient_bed": 5
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a2d"
+    },
+    "patient_id": "patient019",
+    "firstName": "Adib",
+    "lastName": "Salim",
+    "patient_gender": "Male",
+    "patient_nric": "f3101636n",
+    "patient_phoneNumber": 99632297,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-1007450400000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-04-13T07:50:18.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "Hokien",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/20.jpg",
+    "patient_ward": 3,
+    "patient_bed": 6
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a2e"
+    },
+    "patient_id": "patient020",
+    "firstName": "Aqil",
+    "lastName": "Yusof",
+    "patient_gender": "Male",
+    "patient_nric": "f5495329x",
+    "patient_phoneNumber": 68545015,
+    "patient_dateOfBirth": {
+      "$date": "2010-02-17T16:00:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-04-29T20:30:39.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "Tamil",
+    "patient_doctorRemark": "Swollen eye needs attention",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/21.jpg",
+    "patient_ward": 4,
+    "patient_bed": 1
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a2f"
+    },
+    "patient_id": "patient021",
+    "firstName": "Wei",
+    "lastName": "Tan",
+    "patient_gender": "Male",
+    "patient_nric": "f1444334e",
+    "patient_phoneNumber": 74404552,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-861786000000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-05-06T10:12:50.000Z"
+    },
+    "patient_diet": "Short-Term Liquid Diet",
+    "patient_language": "Tamil",
+    "patient_attention": "Bad eyesight",
+    "patient_doctorRemark": "Making good progress",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/22.jpg",
+    "patient_ward": 4,
+    "patient_bed": 2
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a30"
+    },
+    "patient_id": "patient022",
+    "firstName": "Mei Ling",
+    "lastName": "Lim",
+    "patient_gender": "Female",
+    "patient_nric": "t1325314v",
+    "patient_phoneNumber": 23565453,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-370423800000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-01-20T02:41:35.000Z"
+    },
+    "patient_diet": "Soft Transitional Diet",
+    "patient_language": "Tamil",
+    "patient_doctorRemark": "Making excellent progress",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/23.jpg",
+    "patient_ward": 4,
+    "patient_bed": 3
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a31"
+    },
+    "patient_id": "patient023",
+    "firstName": "Wei Jie",
+    "lastName": "Lee",
+    "patient_gender": "Male",
+    "patient_nric": "s8215251m",
+    "patient_phoneNumber": 99332130,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-1264489200000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-02-15T17:47:22.000Z"
+    },
+    "patient_diet": "Special Diet",
+    "patient_language": "English",
+    "patient_attention": "Blind",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/24.jpg",
+    "patient_ward": 4,
+    "patient_bed": 4
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a32"
+    },
+    "patient_id": "patient024",
+    "firstName": "Jing Wen",
+    "lastName": "Ng",
+    "patient_gender": "Female",
+    "patient_nric": "f5185231t",
+    "patient_phoneNumber": 66874485,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-1181199600000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-03-12T21:49:29.000Z"
+    },
+    "patient_diet": "Therapeutic Hospital Diet",
+    "patient_language": "English",
+    "patient_doctorRemark": "Swollen leg",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/25.jpg",
+    "patient_ward": 4,
+    "patient_bed": 5
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a33"
+    },
+    "patient_id": "patient025",
+    "firstName": "Hong Wei",
+    "lastName": "Wong",
+    "patient_gender": "Male",
+    "patient_nric": "m3365340y",
+    "patient_phoneNumber": 94623307,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-851763600000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-01-17T23:02:41.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "English",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/26.jpg",
+    "patient_ward": 4,
+    "patient_bed": 6
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a34"
+    },
+    "patient_id": "patient026",
+    "firstName": "Yi Ting",
+    "lastName": "Chan",
+    "patient_gender": "Male",
+    "patient_nric": "g3912350m",
+    "patient_phoneNumber": 18325173,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-688030200000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-03-07T16:07:43.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "English",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/27.jpg",
+    "patient_ward": 4,
+    "patient_bed": 7
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a35"
+    },
+    "patient_id": "patient027",
+    "firstName": "Wei Ming",
+    "lastName": "Chua",
+    "patient_gender": "Male",
+    "patient_nric": "g1981323i",
+    "patient_phoneNumber": 28376274,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-630487800000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-04-15T19:35:05.000Z"
+    },
+    "patient_diet": "Short-Term Liquid Diet",
+    "patient_language": "English",
+    "patient_doctorRemark": "Swollen arm needs attention",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/28.jpg",
+    "patient_ward": 4,
+    "patient_bed": 8
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a36"
+    },
+    "patient_id": "patient028",
+    "firstName": "Mei Hui",
+    "lastName": "Ong",
+    "patient_gender": "Female",
+    "patient_nric": "f2190527n",
+    "patient_phoneNumber": 43269706,
+    "patient_dateOfBirth": {
+      "$date": "1983-07-18T16:00:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-05-04T11:37:55.000Z"
+    },
+    "patient_diet": "Soft Transitional Diet",
+    "patient_language": "Mandarin",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/29.jpg",
+    "patient_ward": 4,
+    "patient_bed": 9
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a37"
+    },
+    "patient_id": "patient029",
+    "firstName": "Xin Yi",
+    "lastName": "Yeo",
+    "patient_gender": "Female",
+    "patient_nric": "s8371776q",
+    "patient_phoneNumber": 57393254,
+    "patient_dateOfBirth": {
+      "$date": "2001-04-04T16:00:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-03-29T23:09:29.000Z"
+    },
+    "patient_diet": "Special Diet",
+    "patient_language": "Cantonese",
+    "patient_attention": "signs of dementia",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/30.jpg",
+    "patient_ward": 5,
+    "patient_bed": 1
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a38"
+    },
+    "patient_id": "patient030",
+    "firstName": "Jia Hui",
+    "lastName": "Loh",
+    "patient_gender": "Female",
+    "patient_nric": "f4816140g",
+    "patient_phoneNumber": 19242283,
+    "patient_dateOfBirth": {
+      "$date": "1976-01-14T16:30:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-02-10T09:19:24.000Z"
+    },
+    "patient_diet": "Therapeutic Hospital Diet",
+    "patient_language": "Hokien",
+    "patient_doctorRemark": "Swollen eye needs attention",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/31.jpg",
+    "patient_ward": 5,
+    "patient_bed": 2
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a39"
+    },
+    "patient_id": "patient031",
+    "firstName": "Kai Wen",
+    "lastName": "Koh",
+    "patient_gender": "Female",
+    "patient_nric": "s8611124t",
+    "patient_phoneNumber": 90411315,
+    "patient_dateOfBirth": {
+      "$date": "1994-07-26T16:00:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-04-11T03:12:03.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "Tamil",
+    "patient_attention": "Bad eyesight",
+    "patient_doctorRemark": "Making good progress",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/32.jpg",
+    "patient_ward": 5,
+    "patient_bed": 3
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a3a"
+    },
+    "patient_id": "patient032",
+    "firstName": "Wei Xuan",
+    "lastName": "Teo",
+    "patient_gender": "Male",
+    "patient_nric": "s3033631p",
+    "patient_phoneNumber": 81605497,
+    "patient_dateOfBirth": {
+      "$date": "1987-06-10T16:00:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-04-19T23:16:03.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "Tamil",
+    "patient_doctorRemark": "Making excellent progress",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/33.jpg",
+    "patient_ward": 5,
+    "patient_bed": 4
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a3b"
+    },
+    "patient_id": "patient033",
+    "firstName": "Zhi Wei",
+    "lastName": "Tay",
+    "patient_gender": "Female",
+    "patient_nric": "s1044517s",
+    "patient_phoneNumber": 60856374,
+    "patient_dateOfBirth": {
+      "$date": "1970-05-07T16:30:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-01-23T06:21:13.000Z"
+    },
+    "patient_diet": "Short-Term Liquid Diet",
+    "patient_language": "Tamil",
+    "patient_attention": "Blind",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/34.jpg",
+    "patient_ward": 5,
+    "patient_bed": 5
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a3c"
+    },
+    "patient_id": "patient034",
+    "firstName": "Li Ting",
+    "lastName": "Goh",
+    "patient_gender": "Female",
+    "patient_nric": "g7859612w",
+    "patient_phoneNumber": 51656134,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-244020600000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-03-12T14:33:36.000Z"
+    },
+    "patient_diet": "Soft Transitional Diet",
+    "patient_language": "English",
+    "patient_doctorRemark": "Swollen leg",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/35.jpg",
+    "patient_ward": 5,
+    "patient_bed": 6
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a3d"
+    },
+    "patient_id": "patient035",
+    "firstName": "Jun Jie",
+    "lastName": "Ho",
+    "patient_gender": "Male",
+    "patient_nric": "m2013046a",
+    "patient_phoneNumber": 11971079,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-822819600000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-05-09T19:33:08.000Z"
+    },
+    "patient_diet": "Special Diet",
+    "patient_language": "English",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/36.jpg",
+    "patient_ward": 5,
+    "patient_bed": 7
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a3e"
+    },
+    "patient_id": "patient036",
+    "firstName": "Li Hua",
+    "lastName": "Chong",
+    "patient_gender": "Female",
+    "patient_nric": "t1485310x",
+    "patient_phoneNumber": 80736572,
+    "patient_dateOfBirth": {
+      "$date": "1972-02-11T16:30:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-03-15T04:16:05.000Z"
+    },
+    "patient_diet": "Therapeutic Hospital Diet",
+    "patient_language": "English",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/37.jpg",
+    "patient_ward": 5,
+    "patient_bed": 8
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a3f"
+    },
+    "patient_id": "patient037",
+    "firstName": "Shu Fang",
+    "lastName": "Low",
+    "patient_gender": "Female",
+    "patient_nric": "f1154063b",
+    "patient_phoneNumber": 82371772,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-233047800000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-02-03T16:39:02.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "English",
+    "patient_attention": "signs of dementia",
+    "patient_doctorRemark": "Swollen arm needs attention",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/38.jpg",
+    "patient_ward": 6,
+    "patient_bed": 1
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a40"
+    },
+    "patient_id": "patient038",
+    "firstName": "Ying Ying",
+    "lastName": "Yap",
+    "patient_gender": "Female",
+    "patient_nric": "f8761848j",
+    "patient_phoneNumber": 78862932,
+    "patient_dateOfBirth": {
+      "$date": "2007-10-09T16:00:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-04-27T15:25:25.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "English",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/39.jpg",
+    "patient_ward": 6,
+    "patient_bed": 2
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a41"
+    },
+    "patient_id": "patient039",
+    "firstName": "Yu Han",
+    "lastName": "Foo",
+    "patient_gender": "Male",
+    "patient_nric": "m6870355w",
+    "patient_phoneNumber": 47320262,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-717579000000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-01-15T07:16:47.000Z"
+    },
+    "patient_diet": "Short-Term Liquid Diet",
+    "patient_language": "Mandarin",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/40.jpg",
+    "patient_ward": 6,
+    "patient_bed": 3
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a42"
+    },
+    "patient_id": "patient040",
+    "firstName": "Yu Jie",
+    "lastName": "Tan",
+    "patient_gender": "Female",
+    "patient_nric": "t4560406d",
+    "patient_phoneNumber": 68417915,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-368004600000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-03-10T04:38:36.000Z"
+    },
+    "patient_diet": "Soft Transitional Diet",
+    "patient_language": "Cantonese",
+    "patient_doctorRemark": "Swollen eye needs attention",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/41.jpg",
+    "patient_ward": 6,
+    "patient_bed": 4
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a43"
+    },
+    "patient_id": "patient041",
+    "firstName": "Xin Hui",
+    "lastName": "Seah",
+    "patient_gender": "Female",
+    "patient_nric": "f1937115o",
+    "patient_phoneNumber": 23199377,
+    "patient_dateOfBirth": {
+      "$date": "1997-09-30T16:00:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-02-08T22:43:56.000Z"
+    },
+    "patient_diet": "Special Diet",
+    "patient_language": "Hokien",
+    "patient_attention": "Bad eyesight",
+    "patient_doctorRemark": "Making good progress",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/42.jpg",
+    "patient_ward": 6,
+    "patient_bed": 5
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a44"
+    },
+    "patient_id": "patient042",
+    "firstName": "Kai Xin",
+    "lastName": "Heng",
+    "patient_gender": "Female",
+    "patient_nric": "s5314299q",
+    "patient_phoneNumber": 51813585,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-185355000000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-05-03T06:27:45.000Z"
+    },
+    "patient_diet": "Therapeutic Hospital Diet",
+    "patient_language": "Tamil",
+    "patient_doctorRemark": "Making excellent progress",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/43.jpg",
+    "patient_ward": 6,
+    "patient_bed": 6
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a45"
+    },
+    "patient_id": "patient043",
+    "firstName": "Zhi Ming",
+    "lastName": "Tan",
+    "patient_gender": "Male",
+    "patient_nric": "f2871591q",
+    "patient_phoneNumber": 31449322,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-50398200000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-02-02T15:23:37.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "Tamil",
+    "patient_attention": "Blind",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/44.jpg",
+    "patient_ward": 6,
+    "patient_bed": 7
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a46"
+    },
+    "patient_id": "patient044",
+    "firstName": "Jun Wei",
+    "lastName": "Quek",
+    "patient_gender": "Male",
+    "patient_nric": "m5382861p",
+    "patient_phoneNumber": 38578537,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-480238200000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-05-20T17:48:55.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "Tamil",
+    "patient_doctorRemark": "Swollen leg",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/45.jpg",
+    "patient_ward": 6,
+    "patient_bed": 8
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a47"
+    },
+    "patient_id": "patient045",
+    "firstName": "Si Hui",
+    "lastName": "Tan",
+    "patient_gender": "Female",
+    "patient_nric": "s5963978d",
+    "patient_phoneNumber": 43747983,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-490347000000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-05-11T21:19:17.000Z"
+    },
+    "patient_diet": "Short-Term Liquid Diet",
+    "patient_language": "English",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/46.jpg",
+    "patient_ward": 6,
+    "patient_bed": 9
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a48"
+    },
+    "patient_id": "patient046",
+    "firstName": "Kai Ting",
+    "lastName": "Peh",
+    "patient_gender": "Female",
+    "patient_nric": "f3169219c",
+    "patient_phoneNumber": 94665016,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-607851000000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-02-23T16:34:52.000Z"
+    },
+    "patient_diet": "Soft Transitional Diet",
+    "patient_language": "English",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/47.jpg",
+    "patient_ward": 7,
+    "patient_bed": 1
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a49"
+    },
+    "patient_id": "patient047",
+    "firstName": "Wei Ting",
+    "lastName": "Koh",
+    "patient_gender": "Female",
+    "patient_nric": "m2764127a",
+    "patient_phoneNumber": 47088575,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-257153400000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-02-02T15:15:05.000Z"
+    },
+    "patient_diet": "Special Diet",
+    "patient_language": "English",
+    "patient_attention": "signs of dementia",
+    "patient_doctorRemark": "Swollen arm needs attention",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/48.jpg",
+    "patient_ward": 7,
+    "patient_bed": 2
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a4a"
+    },
+    "patient_id": "patient048",
+    "firstName": "Ming Wei",
+    "lastName": "Cheng",
+    "patient_gender": "Male",
+    "patient_nric": "f3187251h",
+    "patient_phoneNumber": 35323620,
+    "patient_dateOfBirth": {
+      "$date": "1992-12-17T16:00:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-05-13T17:59:02.000Z"
+    },
+    "patient_diet": "Therapeutic Hospital Diet",
+    "patient_language": "English",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/49.jpg",
+    "patient_ward": 7,
+    "patient_bed": 3
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a4b"
+    },
+    "patient_id": "patient049",
+    "firstName": "Si Jia",
+    "lastName": "Wong",
+    "patient_gender": "Female",
+    "patient_nric": "m9571106z",
+    "patient_phoneNumber": 40635025,
+    "patient_dateOfBirth": {
+      "$date": "2001-07-09T16:00:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-02-05T06:55:43.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "English",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/50.jpg",
+    "patient_ward": 7,
+    "patient_bed": 4
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a4c"
+    },
+    "patient_id": "patient050",
+    "firstName": "Zi Ling",
+    "lastName": "Tan",
+    "patient_gender": "Female",
+    "patient_nric": "s1854490q",
+    "patient_phoneNumber": 94727148,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-453108600000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-05-04T05:06:01.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "English",
+    "patient_doctorRemark": "Swollen eye needs attention",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/51.jpg",
+    "patient_ward": 8,
+    "patient_bed": 1
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a4d"
+    },
+    "patient_id": "patient051",
+    "firstName": "Jia Qi",
+    "lastName": "Lee",
+    "patient_gender": "Female",
+    "patient_nric": "f8361960e",
+    "patient_phoneNumber": 18705917,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-1372921200000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-01-05T12:59:00.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "English",
+    "patient_attention": "Bad eyesight",
+    "patient_doctorRemark": "Making good progress",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/52.jpg",
+    "patient_ward": 8,
+    "patient_bed": 2
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a4e"
+    },
+    "patient_id": "patient052",
+    "firstName": "Han Wei",
+    "lastName": "Ng",
+    "patient_gender": "Male",
+    "patient_nric": "m7187436i",
+    "patient_phoneNumber": 95626912,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-1367478000000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-03-16T19:04:07.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "Mandarin",
+    "patient_doctorRemark": "Making excellent progress",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/53.jpg",
+    "patient_ward": 8,
+    "patient_bed": 3
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a4f"
+    },
+    "patient_id": "patient053",
+    "firstName": "Yan Ting",
+    "lastName": "Wong",
+    "patient_gender": "Female",
+    "patient_nric": "t2822736n",
+    "patient_phoneNumber": 12204644,
+    "patient_dateOfBirth": {
+      "$date": "2008-08-07T16:00:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-03-29T06:24:54.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "Mandarin",
+    "patient_attention": "Blind",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/54.jpg",
+    "patient_ward": 8,
+    "patient_bed": 4
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a50"
+    },
+    "patient_id": "patient054",
+    "firstName": "Xiu Mei",
+    "lastName": "Chan",
+    "patient_gender": "Female",
+    "patient_nric": "g4394851h",
+    "patient_phoneNumber": 65122319,
+    "patient_dateOfBirth": {
+      "$date": "1992-06-26T16:00:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-02-12T02:46:35.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "Mandarin",
+    "patient_doctorRemark": "Swollen leg",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/55.jpg",
+    "patient_ward": 8,
+    "patient_bed": 5
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a51"
+    },
+    "patient_id": "patient055",
+    "firstName": "Jun Hao",
+    "lastName": "Chua",
+    "patient_gender": "Male",
+    "patient_nric": "t6093080v",
+    "patient_phoneNumber": 13766377,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-222075000000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-03-28T09:49:51.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "Mandarin",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/56.jpg",
+    "patient_ward": 8,
+    "patient_bed": 6
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a52"
+    },
+    "patient_id": "patient056",
+    "firstName": "Xinyi",
+    "lastName": "Ong",
+    "patient_gender": "Male",
+    "patient_nric": "g2919498p",
+    "patient_phoneNumber": 56058464,
+    "patient_dateOfBirth": {
+      "$date": "1984-11-18T16:00:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-04-17T04:53:02.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "Mandarin",
+    "patient_attention": "signs of dementia",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/57.jpg",
+    "patient_ward": 8,
+    "patient_bed": 7
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a53"
+    },
+    "patient_id": "patient057",
+    "firstName": "Xiao Ming",
+    "lastName": "Yeo",
+    "patient_gender": "Female",
+    "patient_nric": "s5860007k",
+    "patient_phoneNumber": 18904412,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-775904400000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-04-25T12:30:04.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "Mandarin",
+    "patient_doctorRemark": "Swollen arm needs attention",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/58.jpg",
+    "patient_ward": 8,
+    "patient_bed": 8
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a54"
+    },
+    "patient_id": "patient058",
+    "firstName": "Shu Hui",
+    "lastName": "Loh",
+    "patient_gender": "Female",
+    "patient_nric": "f8038853x",
+    "patient_phoneNumber": 39328814,
+    "patient_dateOfBirth": {
+      "$date": "1980-05-10T16:30:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-04-24T23:07:10.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "Mandarin",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/59.jpg",
+    "patient_ward": 8,
+    "patient_bed": 9
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a55"
+    },
+    "patient_id": "patient059",
+    "firstName": "Jun Xiang",
+    "lastName": "Ng",
+    "patient_gender": "Male",
+    "patient_nric": "t8964576k",
+    "patient_phoneNumber": 52587170,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-73726200000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-01-22T21:42:34.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "Mandarin",
+    "patient_attention": "signs of dementia",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/60.jpg",
+    "patient_ward": 8,
+    "patient_bed": 10
+  },
+  {
+    "_id": {
+      "$oid": "6454e1b39d39467f4d224a56"
+    },
+    "patient_id": "patient060",
+    "firstName": "Ying Hui",
+    "lastName": "Wong",
+    "patient_gender": "Female",
+    "patient_nric": "m9960274g",
+    "patient_phoneNumber": 17341501,
+    "patient_dateOfBirth": {
+      "$date": {
+        "$numberLong": "-139303800000"
+      }
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-03-07T16:10:24.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "Mandarin",
+    "patient_attention": "signs of dementia",
+    "patient_doctorRemark": "Swollen eye needs attention",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/female/61.jpg",
+    "patient_ward": 8,
+    "patient_bed": 11
+  },
+  {
+    "_id": {
+      "$oid": "6455152774c4328aac46b0ac"
+    },
+    "firstName": "Robert",
+    "lastName": "McKinley",
+    "patient_phoneNumber": 18967071,
+    "patient_dateOfBirth": {
+      "$date": "1981-03-08T16:30:00.000Z"
+    },
+    "patient_dateAdmitted": {
+      "$date": "2023-02-01T06:56:30.000Z"
+    },
+    "patient_diet": "Regular diet",
+    "patient_language": "English",
+    "patient_attention": "has alzheimer",
+    "patient_doctorRemark": "Making good progress",
+    "patient_photo": "https://xsgames.co/randomusers/assets/avatars/male/2.jpg",
+    "patient_ward": 10,
+    "patient_bed": 2
+  }
+]

@@ -1,0 +1,9 @@
+.date-header {
+  width: 100%;
+  font-weight: 500;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  text-align: center;
+  color: #605D64;
+  padding: 1rem 40px;
+}

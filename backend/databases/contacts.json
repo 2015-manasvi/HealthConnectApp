@@ -1,0 +1,1588 @@
+[
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b159"
+    },
+    "firstName": "Bob",
+    "lastName": "Doe",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 33333333,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "s0000001x",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b15a"
+    },
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 22222222,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "s0000001x",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b15b"
+    },
+    "firstName": "Ravi",
+    "lastName": "Balakrishnan",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 22123307,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "t1778359x",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b15c"
+    },
+    "firstName": "Nabilah",
+    "lastName": "Balakrishnan",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 45573196,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "t1778359x",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b15d"
+    },
+    "firstName": "Lakshmi",
+    "lastName": "Ganesan",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 49995993,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "g8669131a",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b15e"
+    },
+    "firstName": "Ravi",
+    "lastName": "Ganesan",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 20227797,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "g8669131a",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b15f"
+    },
+    "firstName": "Shalini",
+    "lastName": "Govindasamy",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 12036332,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f4837086r",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b160"
+    },
+    "firstName": "Lakshmi",
+    "lastName": "Govindasamy",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 14038515,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f4837086r",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b161"
+    },
+    "firstName": "Suresh",
+    "lastName": "Krishnan",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 15152093,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "t8528602x",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b162"
+    },
+    "firstName": "Shalini",
+    "lastName": "Krishnan",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 58540593,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "t8528602x",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b163"
+    },
+    "firstName": "Priya",
+    "lastName": "Mani",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 68827082,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "g5962825l",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b164"
+    },
+    "firstName": "Suresh",
+    "lastName": "Mani",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 42983789,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "g5962825l",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b165"
+    },
+    "firstName": "Vishal",
+    "lastName": "Murugan",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 71391670,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "s2678071k",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b166"
+    },
+    "firstName": "Priya",
+    "lastName": "Murugan",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 38794351,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "s2678071k",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b167"
+    },
+    "firstName": "Meera",
+    "lastName": "Raj",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 72929233,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "m9867718r",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b168"
+    },
+    "firstName": "Vishal",
+    "lastName": "Raj",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 74779415,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "m9867718r",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b169"
+    },
+    "firstName": "Rajesh",
+    "lastName": "Raman",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 60905292,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "g3567318a",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b16a"
+    },
+    "firstName": "Meera",
+    "lastName": "Raman",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 24930541,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "g3567318a",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b16b"
+    },
+    "firstName": "Nurul",
+    "lastName": "Subramaniam",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 97719412,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "s7645232a",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b16c"
+    },
+    "firstName": "Rajesh",
+    "lastName": "Subramaniam",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 63757831,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "s7645232a",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b16d"
+    },
+    "firstName": "Muhammad",
+    "lastName": "Arumugam",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 80778677,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f1135625i",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b16e"
+    },
+    "firstName": "Nurul",
+    "lastName": "Arumugam",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 14066403,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f1135625i",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b16f"
+    },
+    "firstName": "Farah",
+    "lastName": "Abdullah",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 73721255,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f8076977z",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b170"
+    },
+    "firstName": "Muhammad",
+    "lastName": "Abdullah",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 98718767,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f8076977z",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b171"
+    },
+    "firstName": "Hafizah",
+    "lastName": "Ahmad",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 91912167,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "g4798901f",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b172"
+    },
+    "firstName": "Farah",
+    "lastName": "Ahmad",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 92952279,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "g4798901f",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b173"
+    },
+    "firstName": "Aisyah",
+    "lastName": "Ali",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 96551950,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "s8008473x",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b174"
+    },
+    "firstName": "Hafizah",
+    "lastName": "Ali",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 57862371,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "s8008473x",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b175"
+    },
+    "firstName": "Syafiq",
+    "lastName": "Hassan",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 49188586,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "t6829911t",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b176"
+    },
+    "firstName": "Aisyah",
+    "lastName": "Hassan",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 93918518,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "t6829911t",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b177"
+    },
+    "firstName": "Nabilah",
+    "lastName": "Hussein",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 71435496,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "g6242751s",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b178"
+    },
+    "firstName": "Syafiq",
+    "lastName": "Hussein",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 99541613,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "g6242751s",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b179"
+    },
+    "firstName": "Siti",
+    "lastName": "Mohamed",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 47189996,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "g6635584j",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b17a"
+    },
+    "firstName": "Siti",
+    "lastName": "Mohamed",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 93375035,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "g6635584j",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b17b"
+    },
+    "firstName": "Adib",
+    "lastName": "Othman",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 46475621,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "t1577547k",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b17c"
+    },
+    "firstName": "Adib",
+    "lastName": "Othman",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 73995160,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "t1577547k",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b17d"
+    },
+    "firstName": "Aqil",
+    "lastName": "Rahim",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 54748274,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "t3132589i",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b17e"
+    },
+    "firstName": "Aqil",
+    "lastName": "Rahim",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 12215655,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "t3132589i",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b17f"
+    },
+    "firstName": "Wei",
+    "lastName": "Salim",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 96898481,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f3101636n",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b180"
+    },
+    "firstName": "Jake",
+    "lastName": "Salim",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 38071651,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f3101636n",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b181"
+    },
+    "firstName": "Mei Ling",
+    "lastName": "Yusof",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 15713084,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f5495329x",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b182"
+    },
+    "firstName": "Sharifa",
+    "lastName": "Yusof",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 67770514,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f5495329x",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b183"
+    },
+    "firstName": "Wei Jie",
+    "lastName": "Tan",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 53827695,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f1444334e",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b184"
+    },
+    "firstName": "Ying Hui",
+    "lastName": "Tan",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 83539505,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f1444334e",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b185"
+    },
+    "firstName": "Jing Wen",
+    "lastName": "Lim",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 17033619,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "t1325314v",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b186"
+    },
+    "firstName": "Wei Jie",
+    "lastName": "Lim",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 13368273,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "t1325314v",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b187"
+    },
+    "firstName": "Hong Wei",
+    "lastName": "Lee",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 29353462,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "s8215251m",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b188"
+    },
+    "firstName": "Jing Wen",
+    "lastName": "Lee",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 26195470,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "s8215251m",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b189"
+    },
+    "firstName": "Yi Ting",
+    "lastName": "Ng",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 95075944,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f5185231t",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b18a"
+    },
+    "firstName": "Hong Wei",
+    "lastName": "Ng",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 81010339,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f5185231t",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b18b"
+    },
+    "firstName": "Wei Ming",
+    "lastName": "Wong",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 61890307,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "m3365340y",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b18c"
+    },
+    "firstName": "Yi Ting",
+    "lastName": "Wong",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 27065877,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "m3365340y",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b18d"
+    },
+    "firstName": "Mei Hui",
+    "lastName": "Chan",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 36309217,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "g3912350m",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b18e"
+    },
+    "firstName": "Wei Ming",
+    "lastName": "Chan",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 39626568,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "g3912350m",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b18f"
+    },
+    "firstName": "Xin Yi",
+    "lastName": "Chua",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 53651042,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "g1981323i",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b190"
+    },
+    "firstName": "Mei Hui",
+    "lastName": "Chua",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 16542639,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "g1981323i",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b191"
+    },
+    "firstName": "Jia Hui",
+    "lastName": "Ong",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 48957162,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f2190527n",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b192"
+    },
+    "firstName": "Xin Yi",
+    "lastName": "Ong",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 65818101,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f2190527n",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b193"
+    },
+    "firstName": "Kai Wen",
+    "lastName": "Yeo",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 22616654,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "s8371776q",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b194"
+    },
+    "firstName": "Jia Hui",
+    "lastName": "Yeo",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 61876723,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "s8371776q",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b195"
+    },
+    "firstName": "Wei Xuan",
+    "lastName": "Loh",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 14944417,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f4816140g",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b196"
+    },
+    "firstName": "Kai Wen",
+    "lastName": "Loh",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 37541841,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f4816140g",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b197"
+    },
+    "firstName": "Zhi Wei",
+    "lastName": "Koh",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 33580310,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "s8611124t",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b198"
+    },
+    "firstName": "Wei Xuan",
+    "lastName": "Koh",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 68685246,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "s8611124t",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b199"
+    },
+    "firstName": "Li Ting",
+    "lastName": "Teo",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 91758077,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "s3033631p",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b19a"
+    },
+    "firstName": "Zhi Wei",
+    "lastName": "Teo",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 15565744,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "s3033631p",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b19b"
+    },
+    "firstName": "Jun Jie",
+    "lastName": "Tay",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 46666063,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "s1044517s",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b19c"
+    },
+    "firstName": "Li Ting",
+    "lastName": "Tay",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 84491144,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "s1044517s",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b19d"
+    },
+    "firstName": "Li Hua",
+    "lastName": "Goh",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 63952483,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "g7859612w",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b19e"
+    },
+    "firstName": "Jun Jie",
+    "lastName": "Goh",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 62567740,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "g7859612w",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b19f"
+    },
+    "firstName": "Shu Fang",
+    "lastName": "Ho",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 24862738,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "m2013046a",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1a0"
+    },
+    "firstName": "Li Hua",
+    "lastName": "Ho",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 99069190,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "m2013046a",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1a1"
+    },
+    "firstName": "Ying Ying",
+    "lastName": "Chong",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 17982151,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "t1485310x",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1a2"
+    },
+    "firstName": "Shu Fang",
+    "lastName": "Chong",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 18452414,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "t1485310x",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1a3"
+    },
+    "firstName": "Yu Han",
+    "lastName": "Low",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 17188121,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f1154063b",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1a4"
+    },
+    "firstName": "Ying Ying",
+    "lastName": "Low",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 74315002,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f1154063b",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1a5"
+    },
+    "firstName": "Yu Jie",
+    "lastName": "Yap",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 90479291,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f8761848j",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1a6"
+    },
+    "firstName": "Yu Han",
+    "lastName": "Yap",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 20475554,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f8761848j",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1a7"
+    },
+    "firstName": "Xin Hui",
+    "lastName": "Foo",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 63777527,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "m6870355w",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1a8"
+    },
+    "firstName": "Yu Jie",
+    "lastName": "Foo",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 38028798,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "m6870355w",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1a9"
+    },
+    "firstName": "Kai Xin",
+    "lastName": "Tan",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 98777921,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "t4560406d",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1aa"
+    },
+    "firstName": "Xin Hui",
+    "lastName": "Tan",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 97763860,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "t4560406d",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1ab"
+    },
+    "firstName": "Zhi Ming",
+    "lastName": "Seah",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 80083643,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f1937115o",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1ac"
+    },
+    "firstName": "Kai Xin",
+    "lastName": "Seah",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 40243961,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f1937115o",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1ad"
+    },
+    "firstName": "Jun Wei",
+    "lastName": "Heng",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 21278060,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "s5314299q",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1ae"
+    },
+    "firstName": "Zhi Ming",
+    "lastName": "Heng",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 28385617,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "s5314299q",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1af"
+    },
+    "firstName": "Si Hui",
+    "lastName": "Tan",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 42749586,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f2871591q",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1b0"
+    },
+    "firstName": "Jun Wei",
+    "lastName": "Tan",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 30991759,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f2871591q",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1b1"
+    },
+    "firstName": "Kai Ting",
+    "lastName": "Quek",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 84204266,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "m5382861p",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1b2"
+    },
+    "firstName": "Si Hui",
+    "lastName": "Quek",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 28292892,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "m5382861p",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1b3"
+    },
+    "firstName": "Wei Ting",
+    "lastName": "Tan",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 98410651,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "s5963978d",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1b4"
+    },
+    "firstName": "Kai Ting",
+    "lastName": "Tan",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 97150708,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "s5963978d",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1b5"
+    },
+    "firstName": "Ming Wei",
+    "lastName": "Peh",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 28895970,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f3169219c",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1b6"
+    },
+    "firstName": "Wei Ting",
+    "lastName": "Peh",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 68304477,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f3169219c",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1b7"
+    },
+    "firstName": "Si Jia",
+    "lastName": "Koh",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 11958955,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "m2764127a",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1b8"
+    },
+    "firstName": "Ming Wei",
+    "lastName": "Koh",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 35581973,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "m2764127a",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1b9"
+    },
+    "firstName": "Zi Ling",
+    "lastName": "Cheng",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 69025932,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f3187251h",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1ba"
+    },
+    "firstName": "Si Jia",
+    "lastName": "Cheng",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 56047266,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f3187251h",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1bb"
+    },
+    "firstName": "Jia Qi",
+    "lastName": "Wong",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 55721087,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "m9571106z",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1bc"
+    },
+    "firstName": "Zi Ling",
+    "lastName": "Wong",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 44253084,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "m9571106z",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1bd"
+    },
+    "firstName": "Han Wei",
+    "lastName": "Tan",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 97455312,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "s1854490q",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1be"
+    },
+    "firstName": "Jia Qi",
+    "lastName": "Tan",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 24117237,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "s1854490q",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1bf"
+    },
+    "firstName": "Yan Ting",
+    "lastName": "Lee",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 19786386,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f8361960e",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1c0"
+    },
+    "firstName": "Han Wei",
+    "lastName": "Lee",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 10082674,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f8361960e",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1c1"
+    },
+    "firstName": "Xiu Mei",
+    "lastName": "Ng",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 50385672,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "m7187436i",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1c2"
+    },
+    "firstName": "Yan Ting",
+    "lastName": "Ng",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 50343667,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "m7187436i",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1c3"
+    },
+    "firstName": "Jun Hao",
+    "lastName": "Wong",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 53152208,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "t2822736n",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1c4"
+    },
+    "firstName": "Xiu Mei",
+    "lastName": "Wong",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 90082065,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "t2822736n",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1c5"
+    },
+    "firstName": "Xinyi",
+    "lastName": "Chan",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 70207836,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "g4394851h",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1c6"
+    },
+    "firstName": "Jun Hao",
+    "lastName": "Chan",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 65111062,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "g4394851h",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1c7"
+    },
+    "firstName": "Xiao Ming",
+    "lastName": "Chua",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 71277596,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "t6093080v",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1c8"
+    },
+    "firstName": "Xinyi",
+    "lastName": "Chua",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 20414879,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "t6093080v",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1c9"
+    },
+    "firstName": "Shu Hui",
+    "lastName": "Ong",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 36505739,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "g2919498p",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1ca"
+    },
+    "firstName": "Xiao Ming",
+    "lastName": "Ong",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 79990369,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "g2919498p",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1cb"
+    },
+    "firstName": "Jun Xiang",
+    "lastName": "Yeo",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 27316330,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "s5860007k",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1cc"
+    },
+    "firstName": "Shu Hui",
+    "lastName": "Yeo",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 26415706,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "s5860007k",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1cd"
+    },
+    "firstName": "Ying Hui",
+    "lastName": "Loh",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 66150877,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f8038853x",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1ce"
+    },
+    "firstName": "Jun Xiang",
+    "lastName": "Loh",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 34664063,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "f8038853x",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1cf"
+    },
+    "firstName": "Kai Xin",
+    "lastName": "Ng",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 97492473,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "t8964576k",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1d0"
+    },
+    "firstName": "Si Hui",
+    "lastName": "Ng",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 40331968,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "t8964576k",
+    "contact_relationship": "Daughter"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1d1"
+    },
+    "firstName": "Zhi Ming",
+    "lastName": "Wong",
+    "contact_gender": "Male",
+    "contact_phoneNumber": 12147992,
+    "contact_order": 1,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "m9960274g",
+    "contact_relationship": "Son"
+  },
+  {
+    "_id": {
+      "$oid": "645675b9a6dd86f41a94b1d2"
+    },
+    "firstName": "Kai Ting",
+    "lastName": "Wong",
+    "contact_gender": "Female",
+    "contact_phoneNumber": 32324243,
+    "contact_order": 2,
+    "contact_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "contact_patientNric": "m9960274g",
+    "contact_relationship": "Daughter"
+  }
+]

@@ -1,0 +1,560 @@
+.FamilyPatient {
+  /* Family Dashboard_Pre NRIC Verification */
+
+  width: 100%;
+  height: 823px;
+
+  /* overflow-y: scroll; */
+
+  background: #ffffff;
+  border-radius: 18px;
+
+  z-index: 10px;
+}
+.MyCareDisplay {
+  /* Frame 15 */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 32px 24px 16px;
+  gap: 4px;
+
+  height: 76px;
+
+  background: #ffffff;
+}
+
+.MyCare {
+  /* My Care */
+
+  width: 81px;
+  height: 28px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 28px;
+  /* identical to box height, or 127% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  /* M3/sys/light/primary */
+
+  color: #004b64;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.PatientDetailsDisplay {
+  /* Frame 63 */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 0px 64px;
+
+  /* position: absolute;
+  width: 411px; */
+  width: 100%;
+  height: 800px;
+  /* left: 0px;
+  top: 247px; */
+}
+.PatientDetails {
+  /* Frame 10 */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 24px;
+  gap: 32px;
+
+  /* width: 411px; */
+  width: 100%;
+  height: 220px;
+
+  /* M3/ref/tertiary/tertiary90 */
+
+  background: #ffecb3;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.PatientDetailsBox {
+  /* Frame 9 */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 8px;
+
+  /* width: 235px; */
+  width: 100%;
+  height: 172px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+}
+
+.PatientNameBox {
+  /* Frame 8 */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+
+  height: 44px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.PatientName {
+  /* Patient Name */
+
+  height: 20px;
+
+  /* M3/body/medium */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.PatientNameText {
+  /* Kah Poh Tian */
+
+  height: 24px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.HospitalDetailsBox {
+  /* Frame 7 */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+
+  width: 234px;
+  height: 68px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.admitted {
+  /* Admitted To */
+
+  width: 77px;
+  height: 20px;
+
+  /* M3/body/medium */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.hospName {
+  /* Ang Mo Kio Community Hospital */
+
+  width: 234px;
+  height: 24px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.WardNoBedNo {
+  /* Ward 46 / Bed 1 */
+
+  width: 115px;
+  height: 24px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+}
+
+.StaffNameBox {
+  /* Frame 9 */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+
+  width: 162px;
+  height: 44px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+}
+.StaffName {
+  /* Staff Name */
+
+  width: 72px;
+  height: 20px;
+
+  /* M3/body/medium */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.StaffNameText {
+  /* Staff Nurse Mabel See */
+
+  width: 162px;
+  height: 24px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.ButtonBox {
+  /* Frame 60 */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 24px;
+  gap: 4px;
+
+  width: 411px;
+  height: 148px;
+
+  background: #ffffff;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.Button2Box {
+  /* Frame 33 */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 12px;
+  isolation: isolate;
+
+  width: 363px;
+  height: 100px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.MessageStaffBox {
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  gap: 8px;
+
+  width: 363px;
+  height: 44px;
+
+  /* M3/sys/light/primary */
+
+  background: #004b64;
+  border-radius: 4px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+  z-index: 0;
+}
+.MessageStaffText {
+  /* label-text */
+
+  width: 104px;
+  height: 24px;
+
+  /* M3/body/large */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  /* M3/sys/light/on-primary */
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.badge {
+  /* Badge
+
+Badges are used to indicate a notification, item count, or other information relating to a navigation destination. They are placed on the ending edge of icons, typically within other components.
+*/
+
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  left: 370.5px;
+  top: 230.5px;
+
+  /* M3/sys/light/error */
+
+  background: #b3261e;
+  border-radius: 100px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  z-index: 1;
+}
+.badge1 {
+  /* Badge label */
+
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  left: calc(50% - 14px / 2 + 0.5px);
+  top: calc(50% - 14px / 2 + 0.5px);
+
+  /* M3/label/small */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 16px;
+  /* or 145% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  /* M3/sys/light/on-primary */
+
+  color: #ffffff;
+}
+.PatientDetailsTextBox {
+  box-sizing: border-box;
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  gap: 8px;
+
+  width: 363px;
+  height: 44px;
+
+  /* M3/sys/light/outline */
+
+  border: 1px solid #79747e;
+  border-radius: 4px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 2;
+  align-self: stretch;
+  flex-grow: 0;
+  z-index: 2;
+
+  background-color: white;
+}
+.PatientDetailsText {
+  /* label-text */
+
+  width: 114px;
+  height: 24px;
+
+  /* M3/body/large */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  /* M3/sys/light/primary */
+
+  color: #004b64;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}

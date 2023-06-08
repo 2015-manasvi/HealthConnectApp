@@ -1,0 +1,92 @@
+.subHeader {
+  /* Icon-Back+Logout */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 0px 12px;
+  gap: 4px;
+
+  /* position: absolute; */
+  height: 48px;
+  /* left: 0px;
+  right: 0px;
+  top: 170px; */
+
+  background: #f7f7f7;
+}
+
+.Back {
+  /* Back Arrow */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 4px;
+  gap: 4px;
+
+  width: 48px;
+  height: 48px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.BackArrow {
+  /* Icons/arrow_back_24px
+
+arrow, arrows, direction, left, android, back, previous
+*/
+
+  width: 24px;
+  height: 24px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.LogOut {
+  /* Logout */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 4px;
+  gap: 4px;
+
+  width: 48px;
+  height: 48px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.LogOutIcon {
+  /* Icons/log-out */
+
+  width: 20px;
+  height: 20px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}

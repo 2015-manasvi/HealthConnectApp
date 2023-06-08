@@ -1,0 +1,352 @@
+[
+  {
+    "_id": {
+      "$oid": "6454e24f9d39467f4d224a74"
+    },
+    "staff_id": "staff001",
+    "staff_hospitalId": "9029730a",
+    "firstName": "Kavita",
+    "lastName": "Balakrishnan",
+    "staff_gender": "Female",
+    "staff_nric": "t1778359x",
+    "staff_photo": "https://xsgames.co/randomusers/assets/avatars/female/62.jpg",
+    "staff_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "staff_ward": [1, 2, 3]
+  },
+  {
+    "_id": {
+      "$oid": "6454e24f9d39467f4d224a75"
+    },
+    "staff_id": "staff002",
+    "staff_hospitalId": "6464773b",
+    "firstName": "Rajesh",
+    "lastName": "Ganesan",
+    "staff_gender": "Male",
+    "staff_nric": "g8669131a",
+    "staff_photo": "https://xsgames.co/randomusers/assets/avatars/male/63.jpg",
+    "staff_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "staff_ward": [1, 3, 5, 6, 7]
+  },
+  {
+    "_id": {
+      "$oid": "6454e24f9d39467f4d224a76"
+    },
+    "staff_id": "staff003",
+    "staff_hospitalId": "2838321c",
+    "firstName": "Lakshmi",
+    "lastName": "Govindasamy",
+    "staff_gender": "Female",
+    "staff_nric": "f4837086r",
+    "staff_photo": "https://xsgames.co/randomusers/assets/avatars/female/64.jpg",
+    "staff_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "staff_ward": [1, 4]
+  },
+  {
+    "_id": {
+      "$oid": "6454e24f9d39467f4d224a77"
+    },
+    "staff_id": "staff004",
+    "staff_hospitalId": "1611697d",
+    "firstName": "Vishal",
+    "lastName": "Raj",
+    "staff_gender": "Male",
+    "staff_nric": "t8528602x",
+    "staff_photo": "https://xsgames.co/randomusers/assets/avatars/male/65.jpg",
+    "staff_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "staff_ward": [1, 4, 7]
+  },
+  {
+    "_id": {
+      "$oid": "6454e24f9d39467f4d224a78"
+    },
+    "staff_id": "staff005",
+    "staff_hospitalId": "2805740e",
+    "firstName": "Meera",
+    "lastName": "Raman",
+    "staff_gender": "Female",
+    "staff_nric": "g5962825l",
+    "staff_photo": "https://xsgames.co/randomusers/assets/avatars/female/66.jpg",
+    "staff_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "staff_ward": [4, 7, 8]
+  },
+  {
+    "_id": {
+      "$oid": "6454e24f9d39467f4d224a79"
+    },
+    "staff_id": "staff006",
+    "staff_hospitalId": "9904441f",
+    "firstName": "Rajesh",
+    "lastName": "Subramaniam",
+    "staff_gender": "Male",
+    "staff_nric": "s2678071k",
+    "staff_photo": "https://xsgames.co/randomusers/assets/avatars/male/67.jpg",
+    "staff_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "staff_ward": [1, 2, 3, 4]
+  },
+  {
+    "_id": {
+      "$oid": "6454e24f9d39467f4d224a7a"
+    },
+    "staff_id": "staff007",
+    "staff_hospitalId": "7873180g",
+    "firstName": "Nurul",
+    "lastName": "Arumugam",
+    "staff_gender": "Female",
+    "staff_nric": "m9867718r",
+    "staff_photo": "https://xsgames.co/randomusers/assets/avatars/female/68.jpg",
+    "staff_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "staff_ward": [4, 5]
+  },
+  {
+    "_id": {
+      "$oid": "6454e24f9d39467f4d224a7b"
+    },
+    "staff_id": "staff008",
+    "staff_hospitalId": "9378350h",
+    "firstName": "Muhammad",
+    "lastName": "Abdullah",
+    "staff_gender": "Male",
+    "staff_nric": "g3567318a",
+    "staff_photo": "https://xsgames.co/randomusers/assets/avatars/male/69.jpg",
+    "staff_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "staff_ward": [4, 2]
+  },
+  {
+    "_id": {
+      "$oid": "6454e24f9d39467f4d224a7c"
+    },
+    "staff_id": "staff009",
+    "staff_hospitalId": "1249781a",
+    "firstName": "Syafiq",
+    "lastName": "Hussein",
+    "staff_gender": "Male",
+    "staff_nric": "s7645232a",
+    "staff_photo": "https://xsgames.co/randomusers/assets/avatars/male/70.jpg",
+    "staff_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "staff_ward": [2, 4, 6, 7]
+  },
+  {
+    "_id": {
+      "$oid": "6454e24f9d39467f4d224a7d"
+    },
+    "staff_id": "staff010",
+    "staff_hospitalId": "4182909b",
+    "firstName": "Nabilah",
+    "lastName": "Mohamed",
+    "staff_gender": "Female",
+    "staff_nric": "f1135625i",
+    "staff_photo": "https://xsgames.co/randomusers/assets/avatars/female/71.jpg",
+    "staff_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "staff_ward": [1, 2]
+  },
+  {
+    "_id": {
+      "$oid": "6454e24f9d39467f4d224a7e"
+    },
+    "staff_id": "staff011",
+    "staff_hospitalId": "9431825c",
+    "firstName": "Siti",
+    "lastName": "Othman",
+    "staff_gender": "Female",
+    "staff_nric": "f8076977z",
+    "staff_photo": "https://xsgames.co/randomusers/assets/avatars/female/72.jpg",
+    "staff_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "staff_ward": [2, 3]
+  },
+  {
+    "_id": {
+      "$oid": "6454e24f9d39467f4d224a7f"
+    },
+    "staff_id": "staff012",
+    "staff_hospitalId": "5752555d",
+    "firstName": "Adib",
+    "lastName": "Rahim",
+    "staff_gender": "Male",
+    "staff_nric": "g4798901f",
+    "staff_photo": "https://xsgames.co/randomusers/assets/avatars/male/73.jpg",
+    "staff_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "staff_ward": [3, 4]
+  },
+  {
+    "_id": {
+      "$oid": "6454e24f9d39467f4d224a80"
+    },
+    "staff_id": "staff013",
+    "staff_hospitalId": "7761607e",
+    "firstName": "Aqil",
+    "lastName": "Salim",
+    "staff_gender": "Male",
+    "staff_nric": "s8008473x",
+    "staff_photo": "https://xsgames.co/randomusers/assets/avatars/male/74.jpg",
+    "staff_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "staff_ward": [4, 5]
+  },
+  {
+    "_id": {
+      "$oid": "6454e24f9d39467f4d224a81"
+    },
+    "staff_id": "staff014",
+    "staff_hospitalId": "5343647f",
+    "firstName": "Wei",
+    "lastName": "Yusof",
+    "staff_gender": "Male",
+    "staff_nric": "t6829911t",
+    "staff_photo": "https://xsgames.co/randomusers/assets/avatars/male/75.jpg",
+    "staff_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "staff_ward": [5, 6]
+  },
+  {
+    "_id": {
+      "$oid": "6454e24f9d39467f4d224a82"
+    },
+    "staff_id": "staff015",
+    "staff_hospitalId": "3012822g",
+    "firstName": "Mei Ling",
+    "lastName": "Tan",
+    "staff_gender": "Female",
+    "staff_nric": "g6242751s",
+    "staff_photo": "https://xsgames.co/randomusers/assets/avatars/female/76.jpg",
+    "staff_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "staff_ward": [1, 2, 3]
+  },
+  {
+    "_id": {
+      "$oid": "6454e24f9d39467f4d224a83"
+    },
+    "staff_id": "staff016",
+    "staff_hospitalId": "2878740h",
+    "firstName": "Wei Jie",
+    "lastName": "Lim",
+    "staff_gender": "Male",
+    "staff_nric": "g6635584j",
+    "staff_photo": "https://xsgames.co/randomusers/assets/avatars/male/77.jpg",
+    "staff_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "staff_ward": [4, 5, 6]
+  },
+  {
+    "_id": {
+      "$oid": "6454e24f9d39467f4d224a84"
+    },
+    "staff_id": "staff017",
+    "staff_hospitalId": "5589264a",
+    "firstName": "Jing Wen",
+    "lastName": "Lee",
+    "staff_gender": "Female",
+    "staff_nric": "t1577547k",
+    "staff_photo": "https://xsgames.co/randomusers/assets/avatars/female/62.jpg",
+    "staff_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "staff_ward": [6, 7, 8]
+  },
+  {
+    "_id": {
+      "$oid": "6454e24f9d39467f4d224a85"
+    },
+    "staff_id": "staff018",
+    "staff_hospitalId": "4643266b",
+    "firstName": "Hong Wei",
+    "lastName": "Ng",
+    "staff_gender": "Male",
+    "staff_nric": "t3132589i",
+    "staff_photo": "https://xsgames.co/randomusers/assets/avatars/male/63.jpg",
+    "staff_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "staff_ward": [1, 4, 7]
+  },
+  {
+    "_id": {
+      "$oid": "6454e24f9d39467f4d224a86"
+    },
+    "staff_id": "staff019",
+    "staff_hospitalId": "1938313c",
+    "firstName": "Wei Ming",
+    "lastName": "Chan",
+    "staff_gender": "Male",
+    "staff_nric": "f3101636n",
+    "staff_photo": "https://xsgames.co/randomusers/assets/avatars/female/64.jpg",
+    "staff_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "staff_ward": [4, 7, 8]
+  },
+  {
+    "_id": {
+      "$oid": "6454e24f9d39467f4d224a87"
+    },
+    "staff_id": "staff020",
+    "staff_hospitalId": "1330981d",
+    "firstName": "Mei Hui",
+    "lastName": "Chua",
+    "staff_gender": "Female",
+    "staff_nric": "f5495329x",
+    "staff_photo": "https://xsgames.co/randomusers/assets/avatars/male/65.jpg",
+    "staff_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "staff_ward": [1, 2, 3, 4]
+  },
+  {
+    "_id": {
+      "$oid": "6454e24f9d39467f4d224a88"
+    },
+    "staff_id": "staff021",
+    "staff_hospitalId": "6238040e",
+    "firstName": "Xin Yi",
+    "lastName": "Ong",
+    "staff_gender": "Female",
+    "staff_nric": "f1444334e",
+    "staff_photo": "https://xsgames.co/randomusers/assets/avatars/female/66.jpg",
+    "staff_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "staff_ward": [2, 3, 4, 5]
+  },
+  {
+    "_id": {
+      "$oid": "6454e24f9d39467f4d224a89"
+    },
+    "staff_id": "staff022",
+    "staff_hospitalId": "9160574f",
+    "firstName": "Jia Hui",
+    "lastName": "Yeo",
+    "staff_gender": "Female",
+    "staff_nric": "t1325314v",
+    "staff_photo": "https://xsgames.co/randomusers/assets/avatars/male/67.jpg",
+    "staff_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "staff_ward": [4, 5, 6, 7]
+  },
+  {
+    "_id": {
+      "$oid": "6454e24f9d39467f4d224a8a"
+    },
+    "staff_id": "staff023",
+    "staff_hospitalId": "6646831g",
+    "firstName": "Li Ting",
+    "lastName": "Tay",
+    "staff_gender": "Female",
+    "staff_nric": "s8215251m",
+    "staff_photo": "https://xsgames.co/randomusers/assets/avatars/female/84.jpg",
+    "staff_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "staff_ward": [2, 6, 7, 8]
+  },
+  {
+    "_id": {
+      "$oid": "6454e24f9d39467f4d224a8b"
+    },
+    "staff_id": "staff024",
+    "staff_hospitalId": "5987442h",
+    "firstName": "Kai Ting",
+    "lastName": "Koh",
+    "staff_gender": "Female",
+    "staff_nric": "f5185231t",
+    "staff_photo": "https://xsgames.co/randomusers/assets/avatars/female/85.jpg",
+    "staff_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "staff_ward": [1, 2]
+  },
+  {
+    "_id": {
+      "$oid": "6454e24f9d39467f4d224a8c"
+    },
+    "staff_id": "staff025",
+    "staff_hospitalId": "4309395a",
+    "firstName": "Wei Ting",
+    "lastName": "Peh",
+    "staff_gender": "Female",
+    "staff_nric": "m3365340y",
+    "staff_photo": "https://xsgames.co/randomusers/assets/avatars/female/86.jpg",
+    "staff_password": "$2b$12$PbU3xc8u5jwxvRWvyJgmgO3K2.C8mxUis8boEHV/baIl8X4TGxUoe",
+    "staff_ward": [2, 3]
+  }
+]

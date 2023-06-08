@@ -1,0 +1,96 @@
+.ward-header,
+.bed-header {
+  font-family: "Roboto", sans-serif;
+  height: 96px;
+  font-weight: 400;
+  font-size: 1.75rem;
+  line-height: 6rem;
+  color: #004b64;
+  text-align: center;
+  justify-content: center;
+}
+
+.ward-header {
+  background-color: #ccdfe5;
+}
+
+.bed-header {
+  background-color: #ffecb3;
+}
+
+.wardDetails {
+  background-color: #99bfcb;
+}
+
+.bedGrid {
+  margin-top: 2rem;
+  padding: 0 1.5rem;
+}
+
+.bedDetails {
+  background-color: #ffecb3;
+  padding: 0.2rem;
+  border-radius: 20px;
+  justify-content: baseline;
+  padding-top: 10px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+  width: 110.33px;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+}
+
+.bedNumber {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.bedAvatar {
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}
+
+.bedDetailsAddPatient {
+  background-color: #f7f7f7;
+  padding: 0.2rem;
+  border-radius: 20px;
+  justify-content: center;
+  font-style: normal;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+  width: 110.33px;
+  height: 150px;
+}
+
+.bedAddPatientIcon {
+  background-color: #ffecb3;
+  border-radius: 72px;
+  width: 72px;
+  height: 72px;
+  text-align: center;
+  display: flex;
+  font-size: 45px;
+  font-weight: 400;
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}
+
+.name {
+  font-weight: 700;
+  font-size: 1rem;
+}

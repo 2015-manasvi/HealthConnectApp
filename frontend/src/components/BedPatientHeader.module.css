@@ -1,0 +1,89 @@
+.wardHeader,
+.bedHeader {
+  font-family: "Roboto", sans-serif;
+  height: 96px;
+  font-weight: 400;
+  font-size: 1.75rem;
+  line-height: 6rem;
+  color: #004b64;
+  text-align: center;
+  justify-content: center;
+}
+
+.wardHeader {
+  background-color: #ccdfe5;
+}
+
+.bedHeader {
+  background-color: #ffecb3;
+}
+
+.patientHeader {
+  font-family: "Roboto", sans-serif;
+  height: 164px;
+  font-weight: 400;
+  font-size: 14px;
+  color: #004b64;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f7f7f7;
+}
+
+.patientHeaderName {
+  padding-top: 10px;
+}
+
+.Avatar {
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}
+
+.patientMenu {
+  justify-content: center;
+  text-align: center;
+  width: 363px;
+  align-items: center;
+  margin-left: 28px;
+}
+.AddButton,
+.AddButtonLight {
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 0px;
+  gap: 8px;
+
+  width: 363px;
+  height: 44px;
+
+  /* M3/sys/light/primary */
+
+  border-radius: 4px;
+  border: none;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.AddButton {
+  background: #004b64;
+  color: white;
+}
+
+.AddButtonLight {
+  background: white;
+  color: #004b64;
+  border: 1px solid #004b64;
+}

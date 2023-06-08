@@ -1,0 +1,442 @@
+.StaffDisplay {
+  /* Staff Avatar Banner */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  padding: 24px;
+  gap: 32px;
+
+  height: 144px;
+
+  /* M3/ref/primary/primary90 */
+
+  background: #ccdfe5;
+}
+
+.StaffDetails {
+  /* Frame 9 */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 8px;
+
+  width: 235px;
+  height: 96px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 1;
+}
+
+.StaffIDBox {
+  /* Frame 8 */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+
+  width: 66px;
+  height: 44px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.StaffID {
+  /* Staff ID */
+
+  width: 47px;
+  height: 20px;
+
+  /* M3/body/medium */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.ID {
+  /* 838017B */
+
+  width: 66px;
+  height: 24px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.StaffNameBox {
+  /* Frame 7 */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+
+  width: 76px;
+  height: 44px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.StaffName {
+  /* Staff Name */
+
+  width: 72px;
+  height: 20px;
+
+  /* M3/body/medium */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.Name {
+  /* Mabel See */
+
+  width: 200px;
+  height: 24px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.WardsTextBox {
+  /* Wards */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 32px 24px 16px;
+  gap: 4px;
+
+  height: 76px;
+}
+.Wards {
+  /* Wards */
+
+  width: 63px;
+  height: 28px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 28px;
+  /* identical to box height, or 127% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  /* M3/sys/light/primary */
+
+  color: #004b64;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.WardsBox {
+  /* Wards Frame */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 24px;
+  gap: 12px;
+
+  height: 132px;
+}
+
+.WardsFrame {
+  /* Wards Individual Frame */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 16px;
+
+  width: 363px;
+  height: 76px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+
+.WardsButton {
+  /* Ward No. */
+
+  box-sizing: border-box;
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 12px;
+  gap: 4px;
+  font-weight: 400;
+  font-size: 45px;
+  color: #004b64;
+  width: 110.33px;
+  height: 76px;
+
+  /* M3/ref/primary/primary90 */
+
+  background: #ccdfe5;
+  /* M3/ref/primary/primary50 */
+
+  border: 1px solid #005e7d;
+  border-radius: 20px;
+}
+
+.WardNo {
+  /* 46 */
+
+  width: 51px;
+  height: 52px;
+
+  /* M3/display/medium */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 45px;
+  line-height: 52px;
+  /* identical to box height, or 116% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  /* M3/sys/light/primary */
+
+  color: #004b64;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.AddButton {
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  gap: 8px;
+  width: 363px;
+  height: 44px;
+
+  /* M3/sys/light/primary */
+
+  background: #004b64;
+  border-radius: 4px;
+  border: none;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.layer {
+  /* state-layer */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 24px;
+  gap: 8px;
+
+  width: 363px;
+  height: 44px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.text {
+  /* label-text */
+
+  width: 83px;
+  height: 24px;
+
+  /* M3/body/large */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  /* M3/sys/light/on-primary */
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.AccountSettingsBox {
+  /* Account Settings */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 32px 24px 16px;
+  gap: 4px;
+
+  position: absolute;
+  height: 76px;
+  left: 0%;
+  right: 0%;
+  top: 570px;
+}
+
+.AccountSettings {
+  /* Account Settings */
+
+  width: 168px;
+  height: 28px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 28px;
+  /* identical to box height, or 127% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  /* M3/sys/light/primary */
+
+  color: #004b64;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}

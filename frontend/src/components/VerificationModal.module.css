@@ -1,0 +1,353 @@
+.backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  z-index: 10;
+  background: rgba(0, 0, 0, 0.75);
+}
+
+.modalBox {
+  /* Family Verification_Message Staff_Filled */
+
+  position: absolute;
+  width: 312px;
+  height: 348px;
+
+  top: 0%;
+  left: 50%;
+  transform: translate(-50%, 50%);
+
+  background: white;
+  border-radius: 28px;
+
+  z-index: 100;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 10px;
+}
+
+.firstBox {
+  /* content */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 24px;
+  gap: 16px;
+
+  position: absolute;
+  height: 96px;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+}
+
+.firstTextBox {
+  /* headline */
+
+  width: 200px;
+  height: 32px;
+
+  /* M3/headline/small */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height, or 133% */
+
+  /* M3/sys/light/on-surface */
+
+  color: #1d1b20;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 1;
+
+  text-align: left;
+}
+
+.firstXBox {
+  /* Frame 89 */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 4px;
+  gap: 4px;
+
+  width: 48px;
+  height: 48px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.secondBox {
+  /* Frame 86 */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 24px 36px;
+
+  position: absolute;
+  height: 92px;
+  left: 0px;
+  right: 0px;
+  top: 96px;
+}
+
+.secondTextBox {
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  isolation: isolate;
+
+  width: 264px;
+  height: 56px;
+
+  background: white;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}
+.secondBoxText {
+  /* Content */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 0px;
+
+  width: 264px;
+  height: 40px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 1;
+
+  text-align: left;
+}
+
+.thirdBox {
+  /* Frame 94 */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 24px 24px;
+  gap: 4px;
+
+  position: absolute;
+  height: 80px;
+  left: 0px;
+  right: 0px;
+  top: 188px;
+}
+
+.NRICBox {
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+
+  width: 210px;
+  height: 56px;
+
+  border-radius: 4px 4px 0px 0px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.NRICInput {
+  /* text field */
+
+  box-sizing: border-box;
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 8px 0px 8px 16px;
+  gap: 10px;
+
+  width: 210px;
+  height: 56px;
+
+  /* M3/sys/light/outline */
+
+  border: 1px solid #79747e;
+  border-radius: 4px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.NRICYellowBox {
+  /* label-text */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px 4px;
+
+  position: absolute;
+  width: 40px;
+  height: 20px;
+  left: 35px;
+  top: -10px;
+
+  /* M3/ref/tertiary/tertiary90 */
+
+  background: #ffecb3;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  z-index: 1;
+}
+
+.NRICYellowBoxText {
+  /* label-text */
+
+  width: 32px;
+  height: 20px;
+
+  /* M3/body/medium */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+
+  /* M3/sys/light/on-surface-variant */
+
+  color: #49454f;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.fourthBox {
+  /* Frame 87 */
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 24px 36px;
+  gap: 4px;
+
+  position: absolute;
+  height: 80px;
+  left: 0px;
+  right: 0px;
+  top: 268px;
+}
+
+.confirmButton {
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  gap: 8px;
+
+  width: 264px;
+  height: 44px;
+
+  /* M3/sys/light/primary */
+
+  background: #004b64;
+  border-radius: 4px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.confirmText {
+  /* label-text */
+
+  width: 57px;
+  height: 24px;
+
+  /* M3/body/large */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  /* M3/sys/light/on-primary */
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
